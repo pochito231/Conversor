@@ -1,2 +1,2 @@
 # Conversor
-Programa para convertir monedas, usando json 
+Programa para convertir moneda hondureña, usando json 
